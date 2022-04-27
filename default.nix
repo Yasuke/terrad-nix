@@ -11,7 +11,7 @@ buildGoModule rec {
   src = fetchFromGitHub {
     owner = "terra-money";
     repo = "core";
-    rev = "0c293aa61839e7f2f16b1f1d7112e7183c465dd1";
+    rev = "61f08cb3c38854103eab39be37fbcd9b6f3be91a";
     sha256 = "1w1zc8b8bhpii3hbyf74f15s572h8c5m1i284vzb9hqwa43schdl";
   };
 
